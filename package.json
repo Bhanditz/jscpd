@@ -21,7 +21,7 @@
     "glob": ">=5.0.x",
     "js-yaml": ">=3.4.x",
     "minimatch": "^3.0.4",
-    "underscore": ">=1.8.x",
+    "underscore": ">=1.12.1",
     "winston": "2.4.0"
   },
   "devDependencies": {
